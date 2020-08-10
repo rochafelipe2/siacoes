@@ -57,7 +57,7 @@ public class DepartmentDAO {
 		}
 	}
 	
-	public List<Department> listAll(boolean onlyActive) throws SQLException{
+	public List<Department> listAll(boolean onlyActive, int page, int count) throws SQLException{
 		Statement stmt = null;
 		ResultSet rs = null;
 		

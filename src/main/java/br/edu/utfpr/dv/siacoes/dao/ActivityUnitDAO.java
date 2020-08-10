@@ -25,7 +25,7 @@ private Connection conn = null;
 		}
 	}
 	
-	public List<ActivityUnit> listAll() throws SQLException{
+	public List<ActivityUnit> listAll(int page, int count) throws SQLException{
 		Statement stmt = null;
 		ResultSet rs = null;
 		

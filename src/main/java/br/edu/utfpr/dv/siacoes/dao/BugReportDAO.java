@@ -57,7 +57,7 @@ public class BugReportDAO {
 		}
 	}
 	
-	public List<BugReport> listAll() throws SQLException{
+	public List<BugReport> listAll(int page, int count) throws SQLException{
 		Statement stmt = null;
 		ResultSet rs = null;
 		
