@@ -16,13 +16,24 @@ import br.edu.utfpr.dv.siacoes.model.User;
 
 public class BugReportDAO {
 	
+	private Connection conn = null;
+	
+	public BugReportDAO(){
+		if(conn == null){
+			try{
+				this.conn = ConnectionDAO.getInstance().getConnection();
+			}catch(Exception exp){
+				//Exception no Singleton.
+			}
+		}
+	}
+	
+	
 	public BugReport findById(int id) throws SQLException{
-		Connection conn = null;
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			stmt = conn.prepareStatement("SELECT bugreport.*, \"user\".name " + 
 				"FROM bugreport INNER JOIN \"user\" ON \"user\".idUser=bugreport.idUser " +
 				"WHERE idBugReport = ?");
@@ -47,12 +58,10 @@ public class BugReportDAO {
 	}
 	
 	public List<BugReport> listAll() throws SQLException{
-		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			stmt = conn.createStatement();
 			
 			rs = stmt.executeQuery("SELECT bugreport.*, \"user\".name " +
@@ -77,12 +86,10 @@ public class BugReportDAO {
 	
 	public int save(BugReport bug) throws SQLException{
 		boolean insert = (bug.getIdBugReport() == 0);
-		Connection conn = null;
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			
 			if(insert){
 				stmt = conn.prepareStatement("INSERT INTO bugreport(idUser, module, title, description, reportDate, type, status, statusDate, statusDescription) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)", Statement.RETURN_GENERATED_KEYS);
