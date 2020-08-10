@@ -14,13 +14,25 @@ import br.edu.utfpr.dv.siacoes.model.Department;
 
 public class DepartmentDAO {
 
+	private Connection conn = null;
+	
+	public DepartmentDAO(){
+		if(conn == null){
+			try{
+				this.conn = ConnectionDAO.getInstance().getConnection();
+			}catch(Exception exp){
+				//Exception no Singleton.
+			}
+		}
+	}
+	
 	public Department findById(int id) throws SQLException{
-		Connection conn = null;
+		
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
+			
 			stmt = conn.prepareStatement(
 				"SELECT department.*, campus.name AS campusName " +
 				"FROM department INNER JOIN campus ON campus.idCampus=department.idCampus " +
@@ -46,12 +58,10 @@ public class DepartmentDAO {
 	}
 	
 	public List<Department> listAll(boolean onlyActive) throws SQLException{
-		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			stmt = conn.createStatement();
 		
 			rs = stmt.executeQuery("SELECT department.*, campus.name AS campusName " +
@@ -76,12 +86,10 @@ public class DepartmentDAO {
 	}
 	
 	public List<Department> listByCampus(int idCampus, boolean onlyActive) throws SQLException{
-		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			stmt = conn.createStatement();
 		
 			rs = stmt.executeQuery("SELECT department.*, campus.name AS campusName " +
@@ -107,12 +115,10 @@ public class DepartmentDAO {
 	
 	public int save(int idUser, Department department) throws SQLException{
 		boolean insert = (department.getIdDepartment() == 0);
-		Connection conn = null;
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 		
 		try{
-			conn = ConnectionDAO.getInstance().getConnection();
 			
 			if(insert){
 				stmt = conn.prepareStatement("INSERT INTO department(idCampus, name, logo, active, site, fullName, initials) VALUES(?, ?, ?, ?, ?, ?, ?)", Statement.RETURN_GENERATED_KEYS);
