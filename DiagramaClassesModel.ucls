@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="br.edu.utfpr.dv.siacoes.dao.DepartmentDAO" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/dao/DepartmentDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="238" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryFormAppraiserScoreReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryFormAppraiserScoreReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="536" width="304" x="5155" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="br.edu.utfpr.dv.siacoes.model.TutoredBySupervisor.TutoredGroupedBySupervisor" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/TutoredBySupervisor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="330" x="5109" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipJuryAppraiserScore" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipJuryAppraiserScore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="316" width="424" x="3593" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="5" language="java" name="br.edu.utfpr.dv.siacoes.model.User.UserProfile" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="316" width="293" x="7065" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="6" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipJuryFormReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipJuryFormReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1256" width="466" x="5035" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="br.edu.utfpr.dv.siacoes.model.Message" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Message.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="496" width="244" x="4057" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipJuryAppraiser" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipJuryAppraiser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="596" width="388" x="3593" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipJury" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipJury.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1216" width="373" x="3532" y="3071"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryAppraiser" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryAppraiser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="596" width="322" x="6966" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="11" language="java" name="br.edu.utfpr.dv.siacoes.model.SigesConfig.JuryFormat" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigesConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="198" x="1232" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="12" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmissionFooterReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmissionFooterReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="536" width="310" x="5812" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryAppraiserScore" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryAppraiserScore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="316" width="292" x="7073" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipByCompany" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipByCompany.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="240" x="147" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="br.edu.utfpr.dv.siacoes.model.Jury" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Jury.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="996" width="329" x="6924" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="br.edu.utfpr.dv.siacoes.model.BugReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/BugReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="636" width="255" x="2159" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="17" language="java" name="br.edu.utfpr.dv.siacoes.model.Internship.InternshipRequiredType" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Internship.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="320" x="623" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="18" language="java" name="br.edu.utfpr.dv.siacoes.model.BugReport.BugType" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/BugReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="194" x="1710" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="19" language="java" name="br.edu.utfpr.dv.siacoes.model.User" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1216" width="338" x="6695" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivityScore" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivityScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="215" x="499" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivityValidationReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivityValidationReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="436" width="236" x="827" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="22" language="java" name="br.edu.utfpr.dv.siacoes.model.Document.DocumentType" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Document.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="416" width="288" x="3911" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="23" language="java" name="br.edu.utfpr.dv.siacoes.model.Attendance" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Attendance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="656" width="218" x="6195" y="3071"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="24" language="java" name="br.edu.utfpr.dv.siacoes.model.Module.SystemModule" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Module.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="220" x="2159" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="25" language="java" name="br.edu.utfpr.dv.siacoes.model.Internship" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Internship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1176" width="350" x="1304" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="br.edu.utfpr.dv.siacoes.model.SupervisorFeedbackReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SupervisorFeedbackReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="356" width="264" x="1177" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryAppraiserRequest" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryAppraiserRequest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="376" width="273" x="4691" y="2255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="576" width="279" x="983" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="br.edu.utfpr.dv.siacoes.model.SupervisorChange" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SupervisorChange.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="756" width="284" x="6453" y="3071"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="br.edu.utfpr.dv.siacoes.model.City" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/City.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="215" x="2332" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="br.edu.utfpr.dv.siacoes.model.FinalDocument" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/FinalDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="956" width="378" x="6744" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryStudentReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryStudentReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="716" width="254" x="1556" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="br.edu.utfpr.dv.siacoes.model.TutoredBySupervisor" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/TutoredBySupervisor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="436" width="329" x="5109" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="br.edu.utfpr.dv.siacoes.model.Proposal" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Proposal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1056" width="370" x="6155" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="br.edu.utfpr.dv.siacoes.model.TermOfApprovalReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/TermOfApprovalReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="716" width="254" x="1926" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="br.edu.utfpr.dv.siacoes.model.Semester" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Semester.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="436" width="215" x="1470" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="br.edu.utfpr.dv.siacoes.model.Credential" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Credential.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="201" x="2297" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="38" language="java" name="br.edu.utfpr.dv.siacoes.model.BugReport.BugStatus" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/BugReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="225" x="2220" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="39" language="java" name="br.edu.utfpr.dv.siacoes.model.StatementReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/StatementReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1256" width="275" x="2616" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="br.edu.utfpr.dv.siacoes.model.Department" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Department.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="596" width="215" x="4709" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="br.edu.utfpr.dv.siacoes.model.EvaluationItem" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EvaluationItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="556" width="257" x="7538" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="br.edu.utfpr.dv.siacoes.model.ThemeSuggestion" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ThemeSuggestion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="616" width="254" x="4341" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="br.edu.utfpr.dv.siacoes.model.Campus" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Campus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="556" width="215" x="3089" y="10287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipMissingDocumentsReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipMissingDocumentsReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="796" width="338" x="205" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="br.edu.utfpr.dv.siacoes.model.FinalSubmission" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/FinalSubmission.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="476" width="254" x="6273" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="br.edu.utfpr.dv.siacoes.model.SigesConfig" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigesConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="976" width="362" x="1323" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="47" language="java" name="br.edu.utfpr.dv.siacoes.model.Internship.InternshipType" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Internship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="249" x="334" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="48" language="java" name="br.edu.utfpr.dv.siacoes.model.SigacConfig" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigacConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="254" x="2919" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipFinalDocument" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipFinalDocument.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="616" width="378" x="1304" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="br.edu.utfpr.dv.siacoes.model.Project" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Project.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="776" width="240" x="6861" y="3071"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivityGroupStatus" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivityGroupStatus.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="216" width="238" x="3633" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="br.edu.utfpr.dv.siacoes.model.Document" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Document.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="254" x="2879" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="br.edu.utfpr.dv.siacoes.model.LibraryReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/LibraryReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="536" width="237" x="3010" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="54" language="java" name="br.edu.utfpr.dv.siacoes.model.EvaluationItem.EvaluationItemType" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EvaluationItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="301" x="7538" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="55" language="java" name="br.edu.utfpr.dv.siacoes.model.Country" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Country.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="215" x="2332" y="10883"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="56" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmission.ActivityFeedback" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmission.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="269" x="7861" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="57" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipPosterRequestForm" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipPosterRequestForm.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="416" width="449" x="7314" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="58" language="java" name="br.edu.utfpr.dv.siacoes.model.Internship.InternshipStatus" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Internship.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="218" x="76" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="59" language="java" name="br.edu.utfpr.dv.siacoes.model.AppConfig.AppTheme" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/AppConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="316" width="199" x="6505" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="60" language="java" name="br.edu.utfpr.dv.siacoes.model.EmailConfig" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EmailConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="596" width="232" x="3367" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="br.edu.utfpr.dv.siacoes.model.SigetConfig" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigetConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1496" width="394" x="1725" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="62" language="java" name="br.edu.utfpr.dv.siacoes.model.ProposalAppraiser.ProposalFeedback" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ProposalAppraiser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="417" x="5485" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="63" language="java" name="br.edu.utfpr.dv.siacoes.model.CalendarReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/CalendarReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="536" width="215" x="3720" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="br.edu.utfpr.dv.siacoes.model.AttendanceReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/AttendanceReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="576" width="299" x="6501" y="2255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryGrade" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryGrade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="436" width="378" x="2485" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="66" language="java" name="br.edu.utfpr.dv.siacoes.model.SupervisorChange.ChangeFeedback" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SupervisorChange.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="276" x="4719" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="67" language="java" name="br.edu.utfpr.dv.siacoes.model.StudentActivityStatusReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/StudentActivityStatusReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="636" width="407" x="5592" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipPosterRequest" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipPosterRequest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="376" width="449" x="4239" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmissionReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmissionReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="556" width="403" x="6039" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="70" language="java" name="br.edu.utfpr.dv.siacoes.model.Jury.JuryResult" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Jury.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="354" x="2485" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="71" language="java" name="br.edu.utfpr.dv.siacoes.model.EmailMessage" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EmailMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="305" x="1344" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="br.edu.utfpr.dv.siacoes.model.ProposalAppraiser" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ProposalAppraiser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="536" width="295" x="5938" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="br.edu.utfpr.dv.siacoes.model.Thesis" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Thesis.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="776" width="240" x="6882" y="2255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="br.edu.utfpr.dv.siacoes.model.EmailMessageEntry" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EmailMessageEntry.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="196" width="251" x="4057" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="br.edu.utfpr.dv.siacoes.model.AppConfig" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/AppConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="536" width="251" x="6505" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="76" language="java" name="br.edu.utfpr.dv.siacoes.model.SigetConfig.AttendanceFrequency" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigetConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="276" width="277" x="2015" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="77" language="java" name="br.edu.utfpr.dv.siacoes.model.State" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="356" width="215" x="2332" y="10287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryStudent" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="215" x="7204" y="3071"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivityUnit" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivityUnit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="416" width="264" x="8090" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="br.edu.utfpr.dv.siacoes.model.LibraryCoverReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/LibraryCoverReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="356" width="215" x="4431" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipJuryStudent" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipJuryStudent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="278" x="4084" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipEvaluationItem" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipEvaluationItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="496" width="285" x="4403" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryFormAppraiserDetailReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryFormAppraiserDetailReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="536" width="303" x="4749" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="84" language="java" name="br.edu.utfpr.dv.siacoes.model.StudentActivityStatusReport.StudentStage" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/StudentActivityStatusReport.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="293" x="5479" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="85" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryFormAppraiserReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryFormAppraiserReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="816" width="396" x="4719" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="br.edu.utfpr.dv.siacoes.model.Certificate" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Certificate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="254" x="3173" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="87" language="java" name="br.edu.utfpr.dv.siacoes.model.FinalDocument.DocumentFeedback" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/FinalDocument.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="292" x="6148" y="2255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="88" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryBySemester" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryBySemester.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="356" width="215" x="4770" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="br.edu.utfpr.dv.siacoes.model.Tutored" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Tutored.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="676" width="349" x="7185" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="br.edu.utfpr.dv.siacoes.model.Company" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Company.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="536" width="215" x="2332" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="91" language="java" name="br.edu.utfpr.dv.siacoes.model.SigetConfig.SupervisorFilter" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/SigetConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="250" x="1725" y="9651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="92" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryFormReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryFormReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="956" width="433" x="5541" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmissionDetailReport" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmissionDetailReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="596" width="303" x="6162" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="br.edu.utfpr.dv.siacoes.model.UserInfo" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/UserInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="976" width="244" x="7845" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmission" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmission.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1056" width="281" x="7598" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivitySubmissionItem" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivitySubmissionItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="303" x="8129" y="4327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="97" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipReport.ReportFeedback" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="268" x="737" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="98" language="java" name="br.edu.utfpr.dv.siacoes.model.JuryRequest" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/JuryRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="736" width="365" x="4704" y="1259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="br.edu.utfpr.dv.siacoes.model.Module" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Module.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="96" width="194" x="1944" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="br.edu.utfpr.dv.siacoes.model.ActivityGroup" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/ActivityGroup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="215" x="7835" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipPosterAppraiserRequest" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipPosterAppraiserRequest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="316" width="357" x="5520" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="102" language="java" name="br.edu.utfpr.dv.siacoes.model.EmailMessage.MessageType" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/EmailMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1356" width="560" x="1344" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="103" language="java" name="br.edu.utfpr.dv.siacoes.model.InternshipReport.ReportType" 
+    project="siacoes" file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/InternshipReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="217" x="1045" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="104" language="java" name="br.edu.utfpr.dv.siacoes.model.UserDepartment" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/UserDepartment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="656" width="290" x="7475" y="5623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="br.edu.utfpr.dv.siacoes.model.Deadline" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Deadline.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="636" width="341" x="3213" y="8115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" name="br.edu.utfpr.dv.siacoes.model.Activity" project="siacoes" 
+    file="/siacoes/src/main/java/br/edu/utfpr/dv/siacoes/model/Activity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="656" width="283" x="7496" y="6719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="107">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="108" name="supervisorFeedback"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="111" name="projectFinalDocument"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="114" name="appraisers"/>      
+      <multiplicity id="115" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <bendpoint x="7194" y="1259"/>    
+    <bendpoint x="7194" y="2255"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="117" name="project"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <bendpoint x="4688" y="3071"/>    
+    <bendpoint x="4688" y="4327"/>    
+    <bendpoint x="4688" y="5623"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="120" name="appraiser"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="3478" y="5623"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="123" name="supervisor"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="105" navigable="false">      
+      <attribute id="126" name="department"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <bendpoint x="1684" y="4327"/>    
+    <bendpoint x="1292" y="5623"/>    
+    <bendpoint x="1292" y="6719"/>    
+    <bendpoint x="1292" y="8115"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="129" name="juryFormat"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="131">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="132" name="module"/>      
+      <multiplicity id="133" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <bendpoint x="7339" y="5623"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="135" name="manager"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="138" name="thesisFinalDocument"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="140">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="97"/>  
+  </nesting>  
+  <association id="141">    
+    <bendpoint x="6704" y="4327"/>    
+    <bendpoint x="6704" y="5623"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="142" name="newCosupervisor"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <bendpoint x="6578" y="5623"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="145" name="student"/>      
+      <multiplicity id="146" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <end type="SOURCE" refId="104" navigable="false">      
+      <attribute id="148" name="user"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="73"/>  
+  </dependency>  
+  <nesting id="151">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="58"/>  
+  </nesting>  
+  <association id="152">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="153" name="state"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="156" name="juryRequest"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="98" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="159" name="attendanceFrequency"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <bendpoint x="7814" y="1259"/>    
+    <bendpoint x="7814" y="2255"/>    
+    <bendpoint x="7814" y="3071"/>    
+    <bendpoint x="7814" y="4327"/>    
+    <bendpoint x="7402" y="5623"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="162" name="cosupervisor"/>      
+      <multiplicity id="163" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <bendpoint x="7449" y="1259"/>    
+    <bendpoint x="7449" y="2255"/>    
+    <bendpoint x="7449" y="3071"/>    
+    <bendpoint x="7283" y="4327"/>    
+    <bendpoint x="6935" y="5623"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="165" name="student"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="167">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="168">    
+    <bendpoint x="3520" y="5623"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="169" name="student"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="171">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="103"/>  
+  </nesting>  
+  <association id="172">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="173" name="proposal"/>      
+      <multiplicity id="174" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="175">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <association id="176">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="177" name="idEmailMessage"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="102" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="180" name="module"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <bendpoint x="6746" y="4327"/>    
+    <bendpoint x="6746" y="5623"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="183" name="newSupervisor"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="185">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="186" name="proposal"/>      
+      <multiplicity id="187" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="188">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="189">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="190" name="thesis"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="193" name="appraiser"/>      
+      <multiplicity id="194" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <bendpoint x="3457" y="4327"/>    
+    <bendpoint x="3457" y="5623"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="196" name="posterRequest"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="198">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="199" name="juryAppraiser"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="202" name="city"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <bendpoint x="7152" y="1259"/>    
+    <bendpoint x="6470" y="2255"/>    
+    <bendpoint x="6164" y="3071"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="205" name="proposal"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="208" name="user"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="211" name="tutored"/>      
+      <multiplicity id="212" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <bendpoint x="1679" y="5623"/>    
+    <bendpoint x="1934" y="6719"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="214" name="company"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="216">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="87"/>  
+  </nesting>  
+  <association id="217">    
+    <bendpoint x="6872" y="4327"/>    
+    <bendpoint x="6872" y="5623"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="218" name="supervisor"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <bendpoint x="7152" y="3071"/>    
+    <bendpoint x="7152" y="2255"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="221" name="juryRequest"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="98" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <bendpoint x="7173" y="1259"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="224" name="thesis"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="227" name="module"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="229">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="230" name="jury"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="232">    
+    <bendpoint x="1313" y="2255"/>    
+    <bendpoint x="1313" y="3071"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="233" name="internship"/>      
+      <multiplicity id="234" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="235">    
+    <bendpoint x="7793" y="4327"/>    
+    <bendpoint x="7381" y="5623"/>    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="236" name="student"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <bendpoint x="7486" y="8115"/>    
+    <end type="SOURCE" refId="106" navigable="false">      
+      <attribute id="239" name="department"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="241">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="242" name="company"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="245" name="supervisorFeedback"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="247">    
+    <bendpoint x="4667" y="4327"/>    
+    <bendpoint x="4667" y="5623"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="248">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="249" name="department"/>      
+      <multiplicity id="250" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="251">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <association id="252">    
+    <bendpoint x="7821" y="5623"/>    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="253" name="activity"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="106" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="255">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="256" name="type"/>      
+      <multiplicity id="257" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="259" name="appraisers"/>      
+      <multiplicity id="260" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="261">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="262" name="appraisers"/>      
+      <multiplicity id="263" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="264">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="104"/>  
+  </dependency>  
+  <association id="265">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="266" name="activity"/>      
+      <multiplicity id="267" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="106" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="268">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="269" name="internship"/>      
+      <multiplicity id="270" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="271">    
+    <bendpoint x="5489" y="5623"/>    
+    <bendpoint x="5489" y="6719"/>    
+    <bendpoint x="5489" y="8115"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="272" name="department"/>      
+      <multiplicity id="273" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="274">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="275" name="footer"/>      
+      <multiplicity id="276" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="278" name="scores"/>      
+      <multiplicity id="279" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <bendpoint x="3017" y="4327"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="281" name="result"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="283">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="284">    
+    <bendpoint x="6599" y="5623"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="285" name="cosupervisor"/>      
+      <multiplicity id="286" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="287">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="288" name="scores"/>      
+      <multiplicity id="289" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="290">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="291" name="department"/>      
+      <multiplicity id="292" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="293">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="294" name="group"/>      
+      <multiplicity id="295" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="100" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="296">    
+    <bendpoint x="1313" y="5623"/>    
+    <bendpoint x="1313" y="6719"/>    
+    <bendpoint x="2149" y="8115"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="297" name="department"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="299">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="300" name="campus"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="302">    
+    <end type="SOURCE" refId="101" navigable="false">      
+      <attribute id="303" name="request"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="305">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="306" name="project"/>      
+      <multiplicity id="307" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="308">    
+    <bendpoint x="2189" y="5623"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="309" name="internship"/>      
+      <multiplicity id="310" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="311">    
+    <end type="SOURCE" refId="106" navigable="false">      
+      <attribute id="312" name="group"/>      
+      <multiplicity id="313" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="100" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="314">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="315">    
+    <bendpoint x="6809" y="3071"/>    
+    <bendpoint x="6809" y="4327"/>    
+    <bendpoint x="6809" y="5623"/>    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="316" name="student"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="318">    
+    <bendpoint x="2168" y="5623"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="319" name="module"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="321">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="322" name="type"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="324">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="325">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="326" name="user"/>      
+      <multiplicity id="327" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="328">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="329" name="status"/>      
+      <multiplicity id="330" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="331">    
+    <bendpoint x="7809" y="6719"/>    
+    <bendpoint x="7507" y="8115"/>    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="332" name="department"/>      
+      <multiplicity id="333" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="334">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="335" name="status"/>      
+      <multiplicity id="336" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="337">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="56"/>  
+  </nesting>  
+  <association id="338">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="339" name="internshipJuryAppraiser"/>      
+      <multiplicity id="340" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="341">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="342" name="result"/>      
+      <multiplicity id="343" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="344">    
+    <bendpoint x="7444" y="6719"/>    
+    <end type="SOURCE" refId="104" navigable="false">      
+      <attribute id="345" name="profile"/>      
+      <multiplicity id="346" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="347">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="348" name="feedbackUser"/>      
+      <multiplicity id="349" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="350">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="102"/>  
+  </nesting>  
+  <association id="351">    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="352" name="detail"/>      
+      <multiplicity id="353" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="354">    
+    <bendpoint x="3499" y="5623"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="355" name="companySupervisor"/>      
+      <multiplicity id="356" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="357">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="358" name="supervisorFilter"/>      
+      <multiplicity id="359" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="360">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="361" name="supervisorFeedback"/>      
+      <multiplicity id="362" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="363">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="364" name="theme"/>      
+      <multiplicity id="365" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="366">    
+    <bendpoint x="6788" y="3071"/>    
+    <bendpoint x="6788" y="4327"/>    
+    <bendpoint x="6788" y="5623"/>    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="367" name="supervisor"/>      
+      <multiplicity id="368" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="369">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="99"/>  
+  </dependency>  
+  <association id="370">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="371" name="internshipJury"/>      
+      <multiplicity id="372" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="373">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="374" name="internship"/>      
+      <multiplicity id="375" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="376">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="66"/>  
+  </nesting>  
+  <association id="377">    
+    <bendpoint x="6683" y="4327"/>    
+    <bendpoint x="6683" y="5623"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="378" name="oldSupervisor"/>      
+      <multiplicity id="379" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="380">    
+    <bendpoint x="6851" y="2255"/>    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <association id="381">    
+    <bendpoint x="6767" y="3071"/>    
+    <bendpoint x="6767" y="4327"/>    
+    <bendpoint x="6767" y="5623"/>    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="382" name="cosupervisor"/>      
+      <multiplicity id="383" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="384">    
+    <bendpoint x="6557" y="5623"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="385" name="supervisor"/>      
+      <multiplicity id="386" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="387">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="388" name="appraisers"/>      
+      <multiplicity id="389" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="390">    
+    <bendpoint x="7360" y="5623"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="391" name="supervisor"/>      
+      <multiplicity id="392" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="393">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="394" name="profiles"/>      
+      <multiplicity id="395" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="396">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="397" name="jury"/>      
+      <multiplicity id="398" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="399">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="400" name="appraisersSignatures"/>      
+      <multiplicity id="401" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="402">    
+    <bendpoint x="3541" y="5623"/>    
+    <bendpoint x="3541" y="4327"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="403" name="jury"/>      
+      <multiplicity id="404" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="405">    
+    <bendpoint x="6914" y="5623"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="406">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="407" name="scores"/>      
+      <multiplicity id="408" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="409">    
+    <bendpoint x="4718" y="6719"/>    
+    <bendpoint x="4718" y="8115"/>    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="410" name="department"/>      
+      <multiplicity id="411" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="412">    
+    <end type="SOURCE" refId="101" navigable="false">      
+      <attribute id="413" name="appraiser"/>      
+      <multiplicity id="414" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="415">    
+    <bendpoint x="5907" y="5623"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="416" name="supervisorFeedback"/>      
+      <multiplicity id="417" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="418">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="419" name="internshipJury"/>      
+      <multiplicity id="420" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="421">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="422" name="departments"/>      
+      <multiplicity id="423" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="104" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="424">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="425" name="feedback"/>      
+      <multiplicity id="426" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="427">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="428" name="participants"/>      
+      <multiplicity id="429" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="430">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="431" name="user"/>      
+      <multiplicity id="432" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="433">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="434" name="type"/>      
+      <multiplicity id="435" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="436">    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="437" name="submission"/>      
+      <multiplicity id="438" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="95" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="439">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="440" name="cosupervisorFilter"/>      
+      <multiplicity id="441" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="442">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="443" name="appraisersName"/>      
+      <multiplicity id="444" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="445">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="446" name="type"/>      
+      <multiplicity id="447" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="448">    
+    <bendpoint x="2888" y="6719"/>    
+    <bendpoint x="2888" y="8115"/>    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="449" name="department"/>      
+      <multiplicity id="450" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="451">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="452" name="feedback"/>      
+      <multiplicity id="453" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="97" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="454">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="455" name="proposal"/>      
+      <multiplicity id="456" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="457">    
+    <bendpoint x="7465" y="6719"/>    
+    <bendpoint x="7465" y="8115"/>    
+    <end type="SOURCE" refId="104" navigable="false">      
+      <attribute id="458" name="department"/>      
+      <multiplicity id="459" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="460">    
+    <bendpoint x="6641" y="4327"/>    
+    <bendpoint x="6641" y="5623"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="461" name="student"/>      
+      <multiplicity id="462" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="463">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="76"/>  
+  </nesting>  
+  <association id="464">    
+    <bendpoint x="7215" y="1259"/>    
+    <bendpoint x="7215" y="2255"/>    
+    <bendpoint x="7173" y="3071"/>    
+    <bendpoint x="6893" y="4327"/>    
+    <bendpoint x="6893" y="5623"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="465" name="supervisor"/>      
+      <multiplicity id="466" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="467">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="91"/>  
+  </nesting>  
+  <association id="468">    
+    <bendpoint x="3602" y="6719"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="469" name="internshipEvaluationItem"/>      
+      <multiplicity id="470" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="471">    
+    <bendpoint x="5932" y="6719"/>    
+    <bendpoint x="5932" y="8115"/>    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="472" name="department"/>      
+      <multiplicity id="473" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="474">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="475" name="reports"/>      
+      <multiplicity id="476" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="477">    
+    <bendpoint x="6830" y="4327"/>    
+    <bendpoint x="6830" y="5623"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="478" name="student"/>      
+      <multiplicity id="479" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="480">    
+    <bendpoint x="7830" y="6719"/>    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <association id="481">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="482" name="student"/>      
+      <multiplicity id="483" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="484">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="59"/>  
+  </nesting>  
+  <association id="485">    
+    <bendpoint x="6830" y="2255"/>    
+    <bendpoint x="6830" y="3071"/>    
+    <end type="SOURCE" refId="98" navigable="false">      
+      <attribute id="486" name="jury"/>      
+      <multiplicity id="487" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="488">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="489" name="participants"/>      
+      <multiplicity id="490" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="491">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="492" name="module"/>      
+      <multiplicity id="493" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="494">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="495" name="details"/>      
+      <multiplicity id="496" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="93" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="497">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="498" name="department"/>      
+      <multiplicity id="499" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="500">    
+    <bendpoint x="6851" y="4327"/>    
+    <bendpoint x="6851" y="5623"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="501" name="cosupervisor"/>      
+      <multiplicity id="502" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="503">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="504" name="type"/>      
+      <multiplicity id="505" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="506">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="507" name="feedback"/>      
+      <multiplicity id="508" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="509">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="510" name="juryFormat"/>      
+      <multiplicity id="511" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="512">    
+    <bendpoint x="5438" y="2255"/>    
+    <bendpoint x="5438" y="3071"/>    
+    <end type="SOURCE" refId="98" navigable="false">      
+      <attribute id="513" name="proposal"/>      
+      <multiplicity id="514" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="515">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="516" name="department"/>      
+      <multiplicity id="517" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="518">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="519">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="520" name="feedbackUser"/>      
+      <multiplicity id="521" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="522">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="523" name="requiredType"/>      
+      <multiplicity id="524" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="525">    
+    <bendpoint x="7131" y="3071"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="526" name="thesis"/>      
+      <multiplicity id="527" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="528">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="529" name="attendances"/>      
+      <multiplicity id="530" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="531">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="532" name="appraisers"/>      
+      <multiplicity id="533" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="534">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="535" name="type"/>      
+      <multiplicity id="536" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="537">    
+    <bendpoint x="3581" y="6719"/>    
+    <bendpoint x="3584" y="8115"/>    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="538" name="department"/>      
+      <multiplicity id="539" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="540">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="541" name="instance"/>      
+      <multiplicity id="542" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="543">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="544" name="proposal"/>      
+      <multiplicity id="545" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="546">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="547" name="campus"/>      
+      <multiplicity id="548" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="549">    
+    <bendpoint x="7318" y="5623"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="550" name="student"/>      
+      <multiplicity id="551" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="552">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="553" name="student"/>      
+      <multiplicity id="554" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="555">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="556" name="feedbackUser"/>      
+      <multiplicity id="557" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="558">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="559" name="project"/>      
+      <multiplicity id="560" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="561">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="562" name="appraisers"/>      
+      <multiplicity id="563" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="564">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <nesting id="565">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="84"/>  
+  </nesting>  
+  <nesting id="566">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="62"/>  
+  </nesting>  
+  <association id="567">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="568" name="country"/>      
+      <multiplicity id="569" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="570">    
+    <bendpoint x="6662" y="4327"/>    
+    <bendpoint x="6662" y="5623"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="571" name="supervisor"/>      
+      <multiplicity id="572" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="573">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="574" name="type"/>      
+      <multiplicity id="575" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="576">    
+    <bendpoint x="7444" y="5623"/>    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="577">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="578" name="appraiser"/>      
+      <multiplicity id="579" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="580">    
+    <end type="SOURCE" refId="106" navigable="false">      
+      <attribute id="581" name="unit"/>      
+      <multiplicity id="582" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="583">    
+    <bendpoint x="4625" y="5623"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="584" name="appraiser"/>      
+      <multiplicity id="585" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="586">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <nesting id="587">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <association id="588">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="589" name="appraisers"/>      
+      <multiplicity id="590" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="591">    
+    <bendpoint x="7173" y="2255"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="592" name="project"/>      
+      <multiplicity id="593" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="594">    
+    <end type="SOURCE" refId="98" navigable="false">      
+      <attribute id="595" name="appraisers"/>      
+      <multiplicity id="596" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="597">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="598" name="department"/>      
+      <multiplicity id="599" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="600">    
+    <bendpoint x="3562" y="5623"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="601" name="user"/>      
+      <multiplicity id="602" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="603">    
+    <bendpoint x="4646" y="5623"/>    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="604" name="student"/>      
+      <multiplicity id="605" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="606">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="607" name="scores"/>      
+      <multiplicity id="608" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="609">    
+    <bendpoint x="7423" y="5623"/>    
+    <bendpoint x="7423" y="6719"/>    
+    <bendpoint x="7423" y="8115"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="610" name="department"/>      
+      <multiplicity id="611" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="612">    
+    <bendpoint x="2494" y="2255"/>    
+    <bendpoint x="2494" y="3071"/>    
+    <bendpoint x="2494" y="4327"/>    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="613" name="result"/>      
+      <multiplicity id="614" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="615">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="616" name="supervisorFilter"/>      
+      <multiplicity id="617" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="618">    
+    <bendpoint x="8004" y="5623"/>    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="619" name="feedback"/>      
+      <multiplicity id="620" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="621">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="622" name="approved"/>      
+      <multiplicity id="623" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="624">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="625" name="evaluationItem"/>      
+      <multiplicity id="626" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="627">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="628">    
+    <bendpoint x="6725" y="4327"/>    
+    <bendpoint x="6725" y="5623"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="629" name="oldCosupervisor"/>      
+      <multiplicity id="630" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="631">    
+    <bendpoint x="6117" y="2255"/>    
+    <bendpoint x="6284" y="3071"/>    
+    <bendpoint x="6452" y="4327"/>    
+    <bendpoint x="6620" y="5623"/>    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

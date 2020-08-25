@@ -15,7 +15,6 @@ import br.edu.utfpr.dv.siacoes.model.Department;
 public class DepartmentDAO {
 
 	private Connection conn = null;
-	
 	public DepartmentDAO(){
 		if(conn == null){
 			try{
@@ -57,7 +56,7 @@ public class DepartmentDAO {
 		}
 	}
 	
-	public List<Department> listAll(boolean onlyActive, int page, int count) throws SQLException{
+	public List<Department> listAll(boolean onlyActive) throws SQLException{
 		Statement stmt = null;
 		ResultSet rs = null;
 		
