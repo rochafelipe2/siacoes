@@ -34,5 +34,6 @@
 			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lipdi/Documents/Engenharia de software/8 Semestre/Arquitetura de software/lombok.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
