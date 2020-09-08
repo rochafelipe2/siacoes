@@ -12,7 +12,7 @@ import java.util.List;
 import br.edu.utfpr.dv.siacoes.log.UpdateEvent;
 import br.edu.utfpr.dv.siacoes.model.Department;
 
-public class DepartmentDAO {
+public class DepartmentDAO extends _DaoBase {
 
 	private Connection conn = null;
 	public DepartmentDAO(){
@@ -180,6 +180,12 @@ public class DepartmentDAO {
 		department.setInitials(rs.getString("initials"));
 		
 		return department;
+	}
+
+	@Override
+	public void closeResultSet() {
+		// TODO Auto-generated method stub
+		
 	}
 	
 }
