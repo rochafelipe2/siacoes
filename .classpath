@@ -6,7 +6,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
@@ -19,8 +19,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="src/main/webapp/WEB-INF/lib/font-arial.jar"/>
-	<classpathentry exported="true" kind="lib" path="src/main/webapp/WEB-INF/lib/jasperreports-functions-6.4.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="src/main/webapp/WEB-INF/lib/jasperreports-javaflow-6.4.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="src/main/webapp/WEB-INF/lib/signature.jar"/>
 	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
 		<attributes>
@@ -35,5 +33,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/lipdi/Documents/Engenharia de software/8 Semestre/Arquitetura de software/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lipdi/Documents/Engenharia de software/8 Semestre/Arquitetura de software/jasperreports-6.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lipdi/Documents/Engenharia de software/8 Semestre/Arquitetura de software/jasperreports-functions-6.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lipdi/Documents/Engenharia de software/8 Semestre/Arquitetura de software/jasperreports-javaflow-6.4.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
