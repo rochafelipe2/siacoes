@@ -10,8 +10,9 @@ import java.util.List;
 
 import br.edu.utfpr.dv.siacoes.log.UpdateEvent;
 import br.edu.utfpr.dv.siacoes.model.ActivityUnit;
+import br.edu.utfpr.dv.siacoes.model._ModelBase;
 
-public class ActivityUnitDAO {
+public class ActivityUnitDAO extends _DaoBase {
 	
 private Connection conn = null;
 	
@@ -24,6 +25,7 @@ private Connection conn = null;
 			}
 		}
 	}
+	
 	
 	public List<ActivityUnit> listAll() throws SQLException{
 		Statement stmt = null;
@@ -80,7 +82,7 @@ private Connection conn = null;
 	public int save(int idUser, ActivityUnit unit) throws SQLException{
 		boolean insert = (unit.getIdActivityUnit() == 0);
 		PreparedStatement stmt = null;
-		ResultSet rs = null;
+		//ResultSet rs = null;
 		
 		try{
 			
@@ -115,7 +117,7 @@ private Connection conn = null;
 			return unit.getIdActivityUnit();
 		}finally{
 			if((rs != null) && !rs.isClosed())
-				rs.close();
+				
 			if((stmt != null) && !stmt.isClosed())
 				stmt.close();
 			if((conn != null) && !conn.isClosed())
@@ -132,6 +134,16 @@ private Connection conn = null;
 		unit.setAmountDescription(rs.getString("amountDescription"));
 		
 		return unit;
+	}
+	
+	@Override
+	public void closeResultSet(){
+		try {
+			rs.close();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }
